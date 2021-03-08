@@ -1,1 +1,1 @@
-#Haffman algorithm for files compression and decompression
+Haffman algorithm for files compression and decompression
