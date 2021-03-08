@@ -1,0 +1,36 @@
+#include <iostream>
+#include <vector>
+#include <cmath>
+#include <algorithm>
+#include <string>
+#include <fstream>
+#include <cstddef>
+
+#include "Node.h"
+
+using namespace std;
+
+#define ll long long
+#define eb emplace_back
+#define ff as first
+#define ss as second
+
+ifstream bin;
+ofstream bout;
+ofstream bout1;
+vector <Node> tree;
+vector <string> symbCodes;
+vector <pair <char, int>> omega;
+char c, curByte;
+unsigned char C;
+ll M, bitCount;
+
+char from_str(string s) {
+    char ans = 0;
+    for (int i = s.size() - 1; i >= 0; i --) {
+        if (s[i] == '1') {
+            ans += pow(2, s.size() - i - 1);
+        }
+    }
+    return ans;
+}

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tvasi/CLionProjects/HolidayTaskFluctuations/Fluctiations.cpp
+Fluctiations.h
+C:/Users/tvasi/CLionProjects/HolidayTaskFluctuations/Fluctiations.h
+
+C:/Users/tvasi/CLionProjects/HolidayTaskFluctuations/Fluctiations.h
+bits/stdc++.h
+-
+
+C:/Users/tvasi/CLionProjects/HolidayTaskFluctuations/main.cpp
+bits/stdc++.h
+-
+Fluctiations.h
+C:/Users/tvasi/CLionProjects/HolidayTaskFluctuations/Fluctiations.h
+

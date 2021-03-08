@@ -1,0 +1,3 @@
+C:/Users/tvasi/CLionProjects/LongArithm/cmake-build-debug/CMakeFiles/LongArithm.dir
+C:/Users/tvasi/CLionProjects/LongArithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tvasi/CLionProjects/LongArithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
